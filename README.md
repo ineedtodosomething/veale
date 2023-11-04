@@ -1,2 +1,2 @@
 # veale
-c
+make you're code good
